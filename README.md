@@ -11,6 +11,7 @@ Matana University
 ---
 
 Tugas mata kuliah Pengantar Sains Data.
+
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ##Terima kasih
