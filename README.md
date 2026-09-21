@@ -5,7 +5,7 @@ Repository ini berisi tugas **Pertemuan 4** untuk mata kuliah Pengantar Sains Da
 ## 👤 Author
 
 **Satria Ramadhani (20264920010)**
-Statistika - Data Science
+/ Statistika - Data Science
 
 Matana University
 
